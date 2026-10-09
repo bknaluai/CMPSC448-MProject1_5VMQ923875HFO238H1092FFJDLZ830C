@@ -5,7 +5,7 @@
 
 ## Repository Overview
 
-This repository contains the dataset generation scripts, PyTorch model implementations, and technical report for the LLM Fingerprinting project. For the complete theoretical background, methodology, and detailed analysis of findings, please refer to [](llm_report_REV2.pdf).
+This repository contains the dataset generation scripts, PyTorch model implementations, and technical report for the LLM Fingerprinting project. For the complete theoretical background, methodology, and detailed analysis of findings, please refer to [llm_report_REV2.pdf](llm_report_REV2.pdf).
 
 ## File Descriptions
 
