@@ -24,6 +24,14 @@ This repository contains the dataset generation scripts, PyTorch model implement
 * **`llm_dataset.csv`**  
   The curated CSV dataset containing $1,500$ balanced samples ($500$ per LLM family) with fields for prompts, model outputs, model family labels, and assigned task categories.
 
+## Use of LLMs
+
+Many different LLMs were used to help curate this project and report, including but not limited to:
+* **ChatGPT**: Used to assist with debugging PyTorch tensor dimensions, brainstorming pipelines for RQ3/RQ4, and drafting Quarto report structures.
+* **Gemini (Google)**: Used for code refactoring, interpreting statistical outputs, and polishing text readability across report drafts. Additionally used to assist in conceptualizing machine learning concepts, verifying evaluation metrics, and structuring project documentation.
+
+*Note: In accordance with course guidelines, all generated code, explanations, and report details were independently reviewed, verified, and understood prior to final submission.*
+
 ## Setup and Running
 
 1. **Install Dependencies:**
