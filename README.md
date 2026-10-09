@@ -13,7 +13,7 @@ This repository contains the dataset generation scripts, PyTorch model implement
   The full research report documenting project objectives, model architecture design, experimental methodology, and detailed evaluation across all four research questions.
 
 * **`llm_report_REV2.qmd`**
-  The Quarto source document used to render llm_report_REV2.pdf. It integrates embedded R code snippets (using tidyverse, ggplot2, and knitr) to dynamically generate and format report figures, confusion matrices, data tables, and LaTeX math equations.
+  The Quarto source document used to render `llm_report_REV2.pdf`. It integrates embedded R code snippets (using tidyverse, ggplot2, and knitr) to dynamically generate and format report figures, confusion matrices, data tables, and LaTeX math equations.
 
 * **`midterm_project1_REV1.py`**  
   Main Python execution script. Implements PyTorch `TextCNN` and `TextRNN` (BiLSTM) models, custom Dataset/DataLoader pipelines, vocabulary generation, training loops, evaluation metrics, and the experimental logic for RQ1 through RQ4.
